@@ -2,10 +2,10 @@
 
 <p>Criei essa página para um cliente, porém a versão final ficou com algumas alterações, o modelo inicial foi exatamente este. Página bem simples com algumas sessões falando sobre os serviços prestados pela empresa, sobre, etc...</p>
 
-<img src="https://github.com/d8web/Stayblue/blob/main/assets/images/Anima%C3%A7%C3%A3o.gif"/>
+<img src="https://github.com/d8web/StartsiteClone/blob/main/%23Material/Anima%C3%A7%C3%A3o.gif"/>
 
 <p align="center">
-    <img src="https://github.com/d8web/Stayblue/blob/main/assets/images/Anima%C3%A7%C3%A3oresponsiva.gif"/>
+    <img src="https://github.com/d8web/StartsiteClone/blob/main/%23Material/Anima%C3%A7%C3%A3oresponsiva.gif"/>
 </p>
 
 ### Features
