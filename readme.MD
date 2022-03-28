@@ -1,6 +1,6 @@
 ### Clone landing page Startsite
 
-<p>Criei essa página para um cliente, porém a versão final ficou com algumas alterações, o modelo inicial foi exatamente este. Página bem simples com algumas sessões falando sobre os serviços prestados pela empresa, sobre, etc...</p>
+<p>Criei essa página como inspiração para outro projeto uma página bem simples com algumas sessões falando sobre os serviços prestados pela empresa, testemunhas, sobre, etc...</p>
 
 <img src="https://github.com/d8web/StartsiteClone/blob/main/%23Material/Anima%C3%A7%C3%A3o.gif"/>
 
